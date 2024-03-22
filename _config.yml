@@ -27,7 +27,7 @@ author:
   bio              : "Data Scientist | Educator | Innovator"
   location         : "India"
   employer         : "Clavis Technologies Pvt. Ltd."
-  uri              : "https://www.clavistechnologies.com"
+  uri              : # "https://www.clavistechnologies.com"
   email            : "aunkidwai@gmail.com" 
 
   # Academic websites
