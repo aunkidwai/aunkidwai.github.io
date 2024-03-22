@@ -14,9 +14,17 @@ Professional Journey
 
 Key Highlights:
 ------
-- <p style="text-align: justify;"><b>Innovative Solutions</b>: Led the development of an intelligent document processing application, significantly reducing manual processing time by 40% through the use of advanced machine learning algorithms.</p>
-- <p style="text-align: justify;"><b>AI and Machine Learning</b>: Spearheaded AI projects in computer vision and natural language processing, enhancing customer satisfaction and operational efficiency.</p>
-- <p style="text-align: justify;"><b>Data Visualization Expertise</b>: Executed projects that transformed complex datasets into clear, impactful visual representations, facilitating informed decision-making for stakeholders.</p>
+- <p style="text-align: justify;">Expert in data science and machine learning. My work revolves around extracting meaningful insights from data to solve complex problems.</p>
+- <p style="text-align: justify;">Over 6 years of professional experience. I have honed my skills in various roles, contributing to my comprehensive understanding of the data science landscape.</p>
+- <p style="text-align: justify;">Specialized in predictive modeling and data visualization. These skills allow me to transform complex data sets into clear, actionable insights.</p>
+- <p style="text-align: justify;">Led innovative tech projects at Clavis Technologies and TCS. My leadership in these projects resulted in significant improvements in efficiency and customer satisfaction.</p>
+- <p style="text-align: justify;">Master’s degree in Computer Application from Integral University. My academic background has provided me with a solid foundation in computer science principles and applications.</p>
+- <p style="text-align: justify;">Proficient in Python, SQL, and data science libraries. I use these tools to analyze data, build models, and develop intelligent applications.</p>
+- <p style="text-align: justify;">Developed intelligent document processing apps. These applications automate data extraction, classification, and analysis, streamlining business processes.</p>
+- <p style="text-align: justify;">Advanced AI through computer vision and NLP projects. My work has contributed to the advancement of artificial intelligence in understanding images and text.</p>
+- <p style="text-align: justify;">Streamlined data analysis workflows, enhancing efficiency. By automating processes and implementing agile methodologies, I've significantly reduced project completion times.</p>
+- <p style="text-align: justify;">Passionate about public speaking and creative writing. Outside of work, I enjoy engaging with audiences and exploring creative expression through writing.</p>
+
 
 Technical Proficiency
 ======
