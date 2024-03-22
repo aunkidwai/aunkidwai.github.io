@@ -38,7 +38,7 @@ Personal Interests
 ======
 When not delving into data, I enjoy engaging in public speaking and creative writing, which allow me to express my ideas and connect with others. Traveling offers me new perspectives and experiences, while swimming provides a serene escape and keeps me grounded.
 
-Personal Interests
+Connect With Me
 ======
 I'm always open to discussing data science projects or potential collaborations. Feel free to reach out!
 
