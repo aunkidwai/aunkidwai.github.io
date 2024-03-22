@@ -14,9 +14,9 @@ Professional Journey
 
 Key Highlights:
 ------
-- <p style="text-align: justify;">**Innovative Solutions**: Led the development of an intelligent document processing application, significantly reducing manual processing time by 40% through the use of advanced machine learning algorithms.</p>
-- <p style="text-align: justify;">**AI and Machine Learning**: Spearheaded AI projects in computer vision and natural language processing, enhancing customer satisfaction and operational efficiency.</p>
-- <p style="text-align: justify;">**Data Visualization Expertise**: Executed projects that transformed complex datasets into clear, impactful visual representations, facilitating informed decision-making for stakeholders.</p>
+- <p style="text-align: justify;"><b>Innovative Solutions</b>: Led the development of an intelligent document processing application, significantly reducing manual processing time by 40% through the use of advanced machine learning algorithms.</p>
+- <p style="text-align: justify;"><b>AI and Machine Learning</b>: Spearheaded AI projects in computer vision and natural language processing, enhancing customer satisfaction and operational efficiency.</p>
+- <p style="text-align: justify;"><b>Data Visualization Expertise</b>: Executed projects that transformed complex datasets into clear, impactful visual representations, facilitating informed decision-making for stakeholders.</p>
 
 Technical Proficiency
 ======
