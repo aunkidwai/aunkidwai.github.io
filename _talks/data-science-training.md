@@ -1,5 +1,5 @@
 ---
-title: "Eagletfly Solutions - Data Science Training / Personality Development Training"
+title: "Eagletfly Solutions - Data Science and Personality Development Training"
 collection: talks
 type: "Tutorial Course"
 permalink: /talks/data-science-training
