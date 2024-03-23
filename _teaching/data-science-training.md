@@ -3,9 +3,9 @@ title: "Eagletfly Solutions - Data Science and Career Guidance Training"
 collection: talks
 type: "Tutorial Course"
 permalink: /talks/data-science-training
-venue: ""
+venue: "Eagletfly Solutions"
 date: 2023-01-01
-location: "Eagletfly Solutions, Delhi, India"
+location: "Delhi, India"
 ---
 
 At Eagletfly Solutions in Noida, from January to July 2023, I served as a Data Science and Personality Development Trainer. 
