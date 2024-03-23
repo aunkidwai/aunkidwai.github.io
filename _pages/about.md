@@ -10,12 +10,12 @@ redirect_from:
 
 Professional Journey
 ======
-<p style="text-align: justify;">My career commenced shortly after obtaining my Bachelor's and Master's degrees in Computer Application from Integral University, propelling me into roles that spanned the spectrum of data science. From Tata Consultancy Services to Clavis Technologies Pvt. Ltd., my work has consistently focused on developing cutting-edge solutions through predictive modeling, machine learning, and data visualization.</p>
+<p style="text-align: justify;">Following the completion of my Bachelor's and Master's degrees in Computer Application from Integral University, I embarked on a professional path that traversed the diverse landscape of data science. My journey took me from Tata Consultancy Services to Clavis Technologies Pvt. Ltd., where I dedicated myself to crafting innovative solutions utilizing predictive modeling, machine learning, and data visualization.</p>
 
 Key Highlights:
 ------
 - <p style="text-align: justify;">Expert in data science and machine learning. My work revolves around extracting meaningful insights from data to solve complex problems.</p>
-- <p style="text-align: justify;">Over 6 years of professional experience. I have honed my skills in various roles, contributing to my comprehensive understanding of the data science landscape.</p>
+- <p style="text-align: justify;">Over 7 years of professional experience. I have honed my skills in various roles, contributing to my comprehensive understanding of the data science landscape.</p>
 - <p style="text-align: justify;">Specialized in predictive modeling and data visualization. These skills allow me to transform complex data sets into clear, actionable insights.</p>
 - <p style="text-align: justify;">Led innovative tech projects at Clavis Technologies and TCS. My leadership in these projects resulted in significant improvements in efficiency and customer satisfaction.</p>
 - <p style="text-align: justify;">Master’s degree in Computer Application from Integral University. My academic background has provided me with a solid foundation in computer science principles and applications.</p>
