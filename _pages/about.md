@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: justify;">Hello! I'm Aun Mohammad Kidwai, a seasoned Data Scientist with over six plus years of experience in leveraging analytical insights to drive business success and operational efficiency. Currently residing in Lucknow, India, I've cultivated a rich professional background through my work at reputable technology firms and an unwavering commitment to excellence in every project I undertake.</p>
+<p style="text-align: justify;">Hello! I'm Aun Mohammad Kidwai, a seasoned Data Scientist with over seven years of experience in leveraging analytical insights to drive business success and operational efficiency. Currently residing in Lucknow, India, I've cultivated a rich professional background through my work at reputable technology firms and an unwavering commitment to excellence in every project I undertake.</p>
 
 Professional Journey
 ======
