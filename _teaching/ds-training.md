@@ -3,9 +3,9 @@ title: "Softpro India - Data Science and Career Guidance Training"
 collection: talks
 type: "Tutorial Course"
 permalink: /talks/ds-training
-venue: ""
+venue: "Softpro India"
 date: 2023-01-01
-location: "Softpro India, Lucknow, India"
+location: "Lucknow"
 ---
 
 During my tenure from January to July 2023 at Softpro India in Lucknow, I wore dual hats as a Data Science and Personality Development Trainer. 
