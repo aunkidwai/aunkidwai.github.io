@@ -4,7 +4,7 @@ collection: talks
 type: "Data Science and AI Workshop"
 permalink: /talks/IITK_ds_workshop
 venue: "Indian Institute of Technology Kanpur"
-date: 2014-03
+date: 2014-03-01
 location: "Kanpur"
 ---
 
