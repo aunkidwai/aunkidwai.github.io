@@ -11,3 +11,5 @@ location: "Lucknow"
 During my tenure from January to July 2023 at Softpro India in Lucknow, I wore dual hats as a Data Science and Personality Development Trainer. 
 
 I led sessions on a spectrum of soft skills, including self-awareness, communication, emotional intelligence, leadership, and personal branding. Tailoring the programs to participant needs, I employed experiential learning techniques and interactive methods to ensure engagement and real-world application. Personalized coaching and continuous assessments were key to tracking progress and fostering individual development, all within a positive and inclusive learning atmosphere.
+
+| [![Learn ChatGPT and boost your career! | Webinar | Softpro India | Aun Mohammad Kidwai](http://img.youtube.com/vi/uElFkyU4Noc/0.jpg)](https://www.youtube.com/live/uElFkyU4Noc?si=J-2Zw3QAnQJ0loMs) |
