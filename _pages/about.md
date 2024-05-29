@@ -14,15 +14,15 @@ Professional Journey
 
 Key Highlights:
 ------
-- <p style="text-align: justify;">**Data Science Expertise**: Specialized in extracting meaningful insights from data to solve complex problems.</p>
-- <p style="text-align: justify;">**Experience**: Over 7 years in Development, Automation and Data Science, honing skills in various roles.</p>
-- <p style="text-align: justify;">**Predictive Modeling & Data Visualization**: Transforming complex data sets into actionable insights.</p>
-- <p style="text-align: justify;">**Leadership**: Led innovative tech projects at Clavis Technologies and TCS.</p>
-- <p style="text-align: justify;">**Academic Background**: Master's degree in Computer Application from Integral University.</p>
-- <p style="text-align: justify;">**Technical Proficiency**: Proficient in Python, SQL, and data science libraries.</p>
-- <p style="text-align: justify;">**Advanced AI Projects**: Contributed to computer vision and NLP advancements.</p>
-- <p style="text-align: justify;">**Efficiency**: Streamlined data analysis workflows, enhancing efficiency.</p>
-- <p style="text-align: justify;">**Public Speaking & Creative Writing**: Passionate about engaging audiences and exploring creative expression.</p>
+- <p style="text-align: justify;">Data Science Expertise: Specialized in extracting meaningful insights from data to solve complex problems.</p>
+- <p style="text-align: justify;">Experience: Over 7 years in Development, Automation and Data Science, honing skills in various roles.</p>
+- <p style="text-align: justify;">Predictive Modeling & Data Visualization: Transforming complex data sets into actionable insights.</p>
+- <p style="text-align: justify;">Leadership: Led innovative tech projects at Clavis Technologies and TCS.</p>
+- <p style="text-align: justify;">Academic Background: Master's degree in Computer Application from Integral University.</p>
+- <p style="text-align: justify;">Technical Proficiency: Proficient in Python, SQL, and data science libraries.</p>
+- <p style="text-align: justify;">Advanced AI Projects: Contributed to computer vision and NLP advancements.</p>
+- <p style="text-align: justify;">Efficiency: Streamlined data analysis workflows, enhancing efficiency.</p>
+- <p style="text-align: justify;">Public Speaking & Creative Writing: Passionate about engaging audiences and exploring creative expression.</p>
 
 Technical Proficiency
 ======
