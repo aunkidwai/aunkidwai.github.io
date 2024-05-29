@@ -6,16 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Portfolio
-
-Hello! I'm Aun Mohammad Kidwai, a seasoned Data Scientist with over seven years of experience leveraging analytical insights to drive business success and operational efficiency. Residing in Lucknow, India, I've cultivated a rich professional background through my work at reputable technology firms, consistently delivering excellence in every project.
-
-## Professional Journey
-<p style="text-align: justify;">Hello! I'm Aun Mohammad Kidwai, a seasoned Data Scientist with over seven years of experience in leveraging analytical insights to drive business success and operational efficiency. Currently residing in Lucknow, India, I've cultivated a rich professional background through my work at reputable technology firms and an unwavering commitment to excellence in every project I undertake.</p>
+<p style="text-align: justify;">Hello! I'm Aun Mohammad Kidwai, a seasoned Data Scientist with over seven years of experience leveraging analytical insights to drive business success and operational efficiency. Residing in Lucknow, India, I've cultivated a rich professional background through my work at reputable technology firms, consistently delivering excellence in every project.</p>
 
 Professional Journey
 ======
-<p style="text-align: justify;">Following the completion of my Bachelor's and Master's degrees in Computer Application from Integral University, I embarked on a professional path that traversed the diverse landscape of data science. My journey took me from Tata Consultancy Services to Clavis Technologies Pvt. Ltd., where I dedicated myself to crafting innovative solutions utilizing predictive modeling, machine learning, and data visualization.</p>
+<p style="text-align: justify;">
+
+### Clavis Technologies Pvt. Ltd., Noida, India
+**Data Scientist**  
+*Jun 2022 – Present*
+
+### Tata Consultancy Services, Noida, India
+**Technical Lead / Developer**  
+*Jul 2020 – Jun 2022*
+
+### Clavis Technologies Pvt. Ltd., Noida, India
+**Data Science Intern**  
+*Jan 2020 – Jul 2020*
+
+### Tata Consultancy Services, Gurugram, India
+**Associate System Engineer**  
+*2016 – 2018*
 
 Key Highlights:
 ------
