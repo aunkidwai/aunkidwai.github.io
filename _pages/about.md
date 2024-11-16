@@ -14,15 +14,15 @@ Professional Journey
 
 Key Highlights:
 ------
-- <p style="text-align: justify;">Data Science Expertise: Specialized in extracting meaningful insights from data to solve complex problems.</p>
-- <p style="text-align: justify;">Experience: Over 7 years in Development, Automation and Data Science, honing skills in various roles.</p>
-- <p style="text-align: justify;">Predictive Modeling & Data Visualization: Transforming complex data sets into actionable insights.</p>
-- <p style="text-align: justify;">Leadership: Led innovative tech projects at Clavis Technologies and TCS.</p>
-- <p style="text-align: justify;">Academic Background: Master's degree in Computer Application from Integral University.</p>
-- <p style="text-align: justify;">Technical Proficiency: Proficient in Python, SQL, and data science libraries.</p>
-- <p style="text-align: justify;">Advanced AI Projects: Contributed to computer vision and NLP advancements.</p>
-- <p style="text-align: justify;">Efficiency: Streamlined data analysis workflows, enhancing efficiency.</p>
-- <p style="text-align: justify;">Public Speaking & Creative Writing: Passionate about engaging audiences and exploring creative expression.</p>
+- <p style="text-align: justify;">Data Science Expertise: Specialized in predictive modeling, machine learning, and advanced analytics to address complex challenges.</p>
+- <p style="text-align: justify;">Experience: 8 years of hands-on analytics and data science roles at leading firms like TCS and Clavis Technologies.</p>
+- <p style="text-align: justify;">Generative AI & NLP: Contributed to advancements in NLP and Generative AI, enhancing projects like Mindwave AI.</p>
+- <p style="text-align: justify;">Leadership: Directed innovative tech projects, automating workflows, and streamlining data-driven strategies.</p>
+- <p style="text-align: justify;">Technical Proficiency: Proficient in Python, SQL, machine learning frameworks, and data visualization tools.</p>
+- <p style="text-align: justify;">Efficient Solutions: Developed tools such as intelligent document processing apps, optimizing data management.</p>
+- <p style="text-align: justify;">Guest Lectures: Delivered impactful workshops and lectures at institutes like IIT Kanpur and Dr. B. R. Ambedkar University.</p>
+- <p style="text-align: justify;">Publications: Authored papers, including "UniParseAI," focusing on SQL/NoSQL query advancements.</p>
+- <p style="text-align: justify;">Personal Development Training: Trained students and professionals in both technical and soft skills.</p>
 
 Technical Proficiency
 ======
@@ -30,10 +30,13 @@ Technical Proficiency
 
 - **Programming Languages**: Python
 - **Data Science Libraries**: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Data Analysis**: EDA, Statistical Analysis, Predictive Analysis
+- **Generative AI Tools**: GPT, LLaMA, Hugging Face Transformers, OpenAI API
+- **Data Analysis**: EDA, Statistical Analysis, Predictive and Prescriptive Analysis
 - **Data Visualization Tools**: Matplotlib, Seaborn, Plotly, D3.js, Tableau, Power BI
-- **Machine Learning**: Supervised and Unsupervised Learning, NLP, Reinforcement Learning
+- **Machine Learning**: Supervised/Unsupervised Learning, NLP, Time Series Analysis
 - **Databases**: SQL, MongoDB
+
+Generative AI & LLM Skills: Prompt engineering, fine-tuning models, integrating LLMs
 
 Education
 ======
