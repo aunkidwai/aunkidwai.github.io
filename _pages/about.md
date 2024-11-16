@@ -51,9 +51,4 @@ Connect With Me
 ======
 I’m always open to discussing data science projects or potential collaborations. Feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
-
-[Download Resume](link-to-resume)
-
 Thank you for visiting my page!
